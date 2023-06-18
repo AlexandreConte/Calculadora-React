@@ -1,23 +1,25 @@
-<h1 align="center" id="title">Calculadora</h1>
+# Calculadora ReactJs
 
-<h2>Descrição</h2>
-<p>Calculadora de operações básicas</p>
-<ul>
-  <li>Desenvolvido com React.Js</li>
-  <li>Criado com Vite.Js</li>
-</ul>
+![Animação](https://github.com/AlexandreConte/Calculadora-React/assets/84075891/466a75a8-eada-40d5-b714-c745faa885fe)
 
-<h2>Acesso ao Projeto</h2>
-<a href="https://alexandre-calculadora.vercel.app/">Link</a>
+## 🤔 O que é este projeto
+Este projeto é uma web aplicação de uma calculadora feita com ReactJs.
 
-<h2>Linguagens Utilizadas</h2>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3 (Styled-Components)</li>
-  <li>Javascript</li>
-</ul>
+## 💻 Como rodar esse projeto
+Para rodar o projeto, deve executar no terminal do seus sistema operacional, dentro da pasta do projeto, o comando:
+```bash
+npm run dev
+```
 
-<h2 id="stacks">Tecnologias utilizadas</h2>
-<img src="https://img.shields.io/badge/React.Js-v.18.2.0-blue" />
-<img src="https://img.shields.io/badge/Styled--components-v.5.3.6-blue" />
-<img src="https://img.shields.io/badge/Vite.Js-v.4.1.0-blue" />
+## 🖱️ Como usar esse projeto
+Uma vez que a aplicação esteja rodando, você pode fazer operações clicando nos botões da calculadora.
+
+## ⚙️ Tecnologias usadas no projeto
+![ViteJs](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+-----
+<p align="center">
+  Feito com ☕ por Alexandre
+</p>
