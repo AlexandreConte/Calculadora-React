@@ -5,9 +5,17 @@
 ## 🤔 O que é este projeto
 Este projeto é uma web aplicação de uma calculadora feita com ReactJs.
 
+## 🖥️ Será necessário ter instalado em sua máquina:
+- Node
+
 ## 💻 Como rodar esse projeto
 Para rodar o projeto, deve executar no terminal do seus sistema operacional, dentro da pasta do projeto, o comando:
-```bash
+```
+npm i
+```
+
+Em seguida:
+```
 npm run dev
 ```
 
@@ -21,5 +29,5 @@ Uma vez que a aplicação esteja rodando, você pode fazer operações clicando 
 
 -----
 <p align="center">
-  Feito com ☕ por Alexandre
+  Feito com ☕ por Alexandre Conte
 </p>
